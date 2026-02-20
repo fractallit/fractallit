@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>HELLO!</h1>
+<img src=https://media1.tenor.com/m/nB37dEyQ_H4AAAAd/hey-cat.gif>
 
-<!--
-**fractallit/fractallit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>
+    I'm a Fractal and I'm interested in:
+</span>
 
-Here are some ideas to get you started:
+<ul>
+    <li> Python 🐍 </li>
+    <li> C++ 💀 </li>
+    <li> Godot 🤖 </li>
+    <li> Linux 🐧 </li>
+    <li> Open-Source 🤝 </li>
+    <li> Self-Hosting 💻 </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>Idk what else should I write about :p</span>
