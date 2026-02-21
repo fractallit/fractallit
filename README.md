@@ -8,6 +8,8 @@
 <ul>
     <li> Python 🐍 </li>
     <li> C++ 💀 </li>
+    <li> C# 💩 </li>
+    <li> Shaders ✨ </li>
     <li> Godot 🤖 </li>
     <li> Linux 🐧 </li>
     <li> Open-Source 🤝 </li>
