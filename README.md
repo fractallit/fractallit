@@ -18,3 +18,5 @@
 </ul>
 
 <span>Idk what else should I write about :p</span>
+
+## <a href="https://codeberg.org/fractallit">My codeberg 🏔</a>
