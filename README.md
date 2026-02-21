@@ -12,6 +12,7 @@
     <li> Linux 🐧 </li>
     <li> Open-Source 🤝 </li>
     <li> Self-Hosting 💻 </li>
+    <li> Speak English poorly 😭 </li>
 </ul>
 
 <span>Idk what else should I write about :p</span>
