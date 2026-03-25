@@ -14,6 +14,7 @@
     <li> Linux 🐧 </li>
     <li> Open-Source 🤝 </li>
     <li> Self-Hosting 💻 </li>
+    <li> Docker 🐋 </li>
     <li> Speak English poorly 😭 </li>
 </ul>
 
